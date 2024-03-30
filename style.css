@@ -1,0 +1,35 @@
+*{font-family:Helvetica;}
+
+
+h1 {
+    
+    font-size: 100px;
+    color: khaki;
+    font-weight: bold;
+    text-align: center;
+    background-image: url(Images/patternHeader.webp);
+
+}
+.heading{
+   
+    font-size: 32px;
+    color:white;
+    font-weight: bold;
+    
+}
+
+.brushes .heading{
+    background-color: mediumspringgreen;
+}
+.paint .heading{
+    background-color: skyblue;
+}
+.frames .heading{
+    background-color: lightcoral;
+}
+span{
+    color:blue;
+    font-weight: bold;
+}
+
+
